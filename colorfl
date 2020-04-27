@@ -1,5 +1,0 @@
-```java
-int a = 5;
-String b = "hel";
-System.out.println(a + b);
-````
