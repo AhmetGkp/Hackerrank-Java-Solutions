@@ -1,4 +1,3 @@
 # Hackerrank-Java-Solutions
-Hackerrank Solutions in Java
 
-You can find the solutions of Hackerrank Problems here in Java programming language.
+The solutions of the Hackerrank problems in Java programming language.
